@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Oct 21 22:27:18 2021
+# Process ID: 2365
+# Current directory: /home/khoa/Documents/logic_design/lab3_hls/solution1/sim/verilog
+# Command line: vivado -source open_wave.tcl
+# Log file: /home/khoa/Documents/logic_design/lab3_hls/solution1/sim/verilog/vivado.log
+# Journal file: /home/khoa/Documents/logic_design/lab3_hls/solution1/sim/verilog/vivado.jou
+#-----------------------------------------------------------
+start_gui
+source open_wave.tcl
+open_wave_config /home/khoa/Documents/logic_design/lab3_hls/solution1/sim/verilog/simpleALU.wcfg
+close_sim

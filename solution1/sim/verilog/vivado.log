@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Oct 24 09:54:25 2021
+# Process ID: 21429
+# Current directory: /home/khoa/Documents/logic_design/lab3_hls/solution1/sim/verilog
+# Command line: vivado -source open_wave.tcl
+# Log file: /home/khoa/Documents/logic_design/lab3_hls/solution1/sim/verilog/vivado.log
+# Journal file: /home/khoa/Documents/logic_design/lab3_hls/solution1/sim/verilog/vivado.jou
+#-----------------------------------------------------------
+start_gui
+source open_wave.tcl
+# current_fileset
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/opt/Xilinx/Vivado/2018.2/data/ip'.
+current_fileset: Time (s): cpu = 00:00:21 ; elapsed = 00:00:30 . Memory (MB): peak = 5964.789 ; gain = 94.906 ; free physical = 68 ; free virtual = 1271
+# open_wave_database simpleALU.wdb
+open_wave_config /home/khoa/Documents/logic_design/lab3_hls/solution1/sim/verilog/simpleALU.wcfg
+open_wave_database: Time (s): cpu = 00:00:06 ; elapsed = 00:00:08 . Memory (MB): peak = 6009.684 ; gain = 35.914 ; free physical = 68 ; free virtual = 1265
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Oct 24 14:37:49 2021...

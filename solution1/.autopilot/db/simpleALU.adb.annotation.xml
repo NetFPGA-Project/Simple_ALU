@@ -1,0 +1,5 @@
+<annotationInfo>
+<item  id="17" filename="lab3_hls/core.cpp" linenumber="20" name="tmp_1" contextFuncName="simpleALU" moduleName="simpleALU" rtlName="tmp_1_fu_44_p2" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="27" fileDirectory="/home/khoa/Documents/logic_design"><\/item>
+<item  id="18" filename="lab3_hls/core.cpp" linenumber="17" name="agg_result_V_assign" contextFuncName="simpleALU" moduleName="simpleALU" rtlName="agg_result_V_assign_fu_50_p2" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="27" fileDirectory="/home/khoa/Documents/logic_design"><\/item>
+<item  id="19" filename="lab3_hls/core.cpp" linenumber="15" name="agg_result_V" contextFuncName="simpleALU" moduleName="simpleALU" rtlName="ap_return" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="20" fileDirectory="/home/khoa/Documents/logic_design"><\/item>
+</annotationInfo>
